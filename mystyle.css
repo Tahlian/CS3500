@@ -9,6 +9,10 @@ p{
 	font-size: 20
 }
 
+body div {
+	
+}
+
 nav.menu2
 {
     /*width:500px;margin:0 auto;*//*Uncomment this line to make the menu center-aligned.*/
@@ -16,8 +20,8 @@ nav.menu2
     background-image: url(bg1.gif);
     border:1px solid black;
     font-size:0;
-    position:fixed;
-    z-index:100;
+    /*position:fixed;
+    z-index:100;*/
 }
 
 nav.menu2 a
