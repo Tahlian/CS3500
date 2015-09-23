@@ -16,7 +16,7 @@ nav.menu2
     background-image: url(bg1.gif);
     border:1px solid black;
     font-size:0;
-    float:top;
+    position:fixed;
 }
 
 nav.menu2 a
