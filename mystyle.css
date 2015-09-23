@@ -17,6 +17,7 @@ nav.menu2
     border:1px solid black;
     font-size:0;
     position:fixed;
+    z-index:100;
 }
 
 nav.menu2 a
