@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>CS3500</title>
 </head>
-<body vlink="#FF0000">
+<body>
 <?php include 'menu.html'; ?>
 <!--#include virtual="menu.html" -->
 <h3>This page contains a short tutorial on HTML and CSS</h3>
