@@ -9,9 +9,16 @@ p{
 	font-size: 20
 }
 
-body div {
-	
+.content {
+	max-width: 800px;
+	text-align: left;
 }
+
+.Title {
+	text-align: center;
+}
+
+
 
 nav.menu2
 {

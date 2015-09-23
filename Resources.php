@@ -7,11 +7,12 @@
 </head>
 <body>
 	<?php include 'menu.html'; ?>
-	<h3>Resources</h3>
+	<div class="content">
+	<h3 class="title">Resources</h3>
 	
 	<p>This page lists various resources for HTML and CSS.  The HTML and CSS standards can be found at <a href="http://www.w3.org/standards/">W3C</a>.</p>
 	
-	<h4>Tutorials</h2>
+	<h4>Tutorials</h4>
 	<ul>
 		<li><a href="http://www.html-5-tutorial.com/">Basic HTML5 Tutorial</a></li>
 		<li><a href="http://www.w3schools.com/html/">various HTML Tutorials</a></li>
@@ -27,5 +28,6 @@
 		<li><a href="https://developers.google.com/speed/pagespeed/insights/">Page Speed Test</a></li>
 		<li><a href="https://www.google.com/webmasters/tools/mobile-friendly/">Mobile Friendly Test</a></li>
 	</ul>
+	</div>
 </body>
 </html>
