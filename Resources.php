@@ -28,6 +28,11 @@
 		<li><a href="https://developers.google.com/speed/pagespeed/insights/">Page Speed Test</a></li>
 		<li><a href="https://www.google.com/webmasters/tools/mobile-friendly/">Mobile Friendly Test</a></li>
 	</ul>
+	<h4>Specifications</h4>
+	<ul>
+		<li><a href="http://www.w3.org/TR/html5/">HTML5 Specifications</a></li>
+		<li><a href="http://www.w3.org/TR/css3-roadmap/">CSS3 Specifications</a></li>
+	</ul>
 	</div>
 </body>
 </html>
