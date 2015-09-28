@@ -1,4 +1,4 @@
-@CHARSET "UTF-8";
+@charset "UTF-8";
 body {
 	background: black;
 	color: lime;
@@ -6,7 +6,7 @@ body {
 }
 p{
 	
-	font-size: 20
+	font-size: 20px
 }
 
 .content {
