@@ -24,16 +24,16 @@ A w3Schools tutorial for tables is located <a href="http://www.w3schools.com/htm
 </p>
 <p>
 The &lsaquo;img&rsaquo; tag is used to embed images.<br><br>
-<img src="idiot.gif" style="width: 266px;height: 200px"><br><br>
+<img src="idiot.gif" alt ="This should be a gif of a guy setting his crotch on fire but it seems it broke somehow." style="width: 266px;height: 200px"><br><br>
 <a href="http://www.w3schools.com/html/html_images.asp">Here is a W3Schools tutorial for Images</a>.
 </p>
 <p>
 Audio and Video can also be embedded in the browser with html5 using the &lsaquo;audio&rsaquo; and &lsaquo;video&rsaquo; tags as such<br><br>
-<audio id="we are nowhere" controls>
+<audio id="we_are_nowhere" controls="controls">
 <source src=we-are-nowhere.mp3>
 </audio><br><br>
 <a href="http://www.w3schools.com/html/html5_audio.asp">Here is a W3Schools tutorial for HTML5 Audio</a>.<br><br>
-<video id="Fun with Hitlers Easter Stache" controls>
+<video id="Fun_with_Hitlers_Easter_Stache" controls="controls">
 <source src="Fun-With-Hitlers-Easter-Stash.mp4">
 </video><br><br>
 <a href="http://www.w3schools.com/html/html5_video.asp">Here is a W3Schools tutorial for HTML5 Video</a>.
