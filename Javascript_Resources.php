@@ -14,16 +14,39 @@
 	
 	<h4>Tutorials</h4>
 	<ul>
-		<li><a href="https://www.thenewboston.com/videos.php?cat=10">Javascript Tutorial Videos</a></li>
+		<li><a href="https://www.thenewboston.com/videos.php?cat=10">Javascript Tutorial Videos for Beginners</a></li>
+	</ul>
+	<h4>Compatability</h4>
+	<ul>
+		<li>Placeholding Text</li>
+	</ul>
+	<h4>Security</h4>
+	<ul>
+		<li>Placeholding Text</li>
 	</ul>
 	<h4>Tools</h4>
 	<ul>
 		<li><a href="https://addons.mozilla.org/en-US/firefox/addon/firebug/">Firebug (Javascript Debugging Add-On for Firefox)</a></li>
 	</ul>
+	<h4>Advanced Frameworks</h4>
+	<ul>
+		<li><a href="https://jquery.com/">JQuery Official Site</a></li>
+		<li><a href="http://www.w3schools.com/jquery/">W3Schools Tutorials for JQuery for Beginners</a></li>
+		<li><a href="http://smashinghub.com/20-excellent-jquery-toolstricks-for-developers.htm">20 Excellent JQuery Tools/Tricks for Developers</a></li>
+		<li><a href="http://overapi.com/jquery/">JQuery Examples</a></li>
+	</ul>
 	<h4>Specifications</h4>
 	<ul>
 		<li><a href="http://www.ecma-international.org/ecma-262/6.0/index.html">Javascript Specifications</a></li>
 	</ul>
+	<h4>Style</h4>
+	<ul>
+		<li>Placeholding Text</li>
+	</ul>
+	<h4>Debugging</h4>
+	<ul>
+		<li>Placeholding Text</li>
+	</ul>	
 	</div>
 </body>
 </html>
