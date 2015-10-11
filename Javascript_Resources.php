@@ -22,7 +22,11 @@
 	</ul>
 	<h4>Security</h4>
 	<ul>
-		<li>Placeholding Text</li>
+		<li><a href="https://addons.mozilla.org/en-US/firefox/addon/noscript/">NoScript is a Fireox add-on to selectively or completely disable javascript on certain sites</a></li>
+		<li><a href="https://addons.mozilla.org/en-US/firefox/addon/ghostery/">Ghostery is a Firefox add-on that can be used to disable website trackers</a></li>
+		<li><a href="https://github.com/amq/firefox-debloat">A quick readme showing how to disable Firefox from sending all website history to Google and other third parties</a></li>
+		<li><a href="https://www.eff.org/https-everywhere">HTTPS Everywhere by the Electronic Frontier Foundation</a></li>
+		<li><a href="http://www.privoxy.org/">Privoxy is a privacy-enhancing localhost proxy service that can be used to enhance security</a></li>
 	</ul>
 	<h4>Tools</h4>
 	<ul>
