@@ -10,7 +10,7 @@
 <?php include 'menu.html'; ?>
 <!--#include virtual="menu.html" -->
 <div class="content">
-<h3>This page contains a short tutorial on HTML and CSS</h3><br>
+<h4>This page contains a short tutorial on HTML and CSS</h4><br>
 <p>
 W3 Schools has a bunch of free tutorials for <a href="http://www.w3schools.com/html/">HTML</a> and 
 <a href="http://www.w3schools.com/css/">CSS</a>
