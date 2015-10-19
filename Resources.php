@@ -6,12 +6,13 @@
 <title>Resources</title>
 </head>
 <body>
+	<div class="everything">
 	<?php include 'menu.html'; ?>
 	<div class="content">
-	<h3 class="title">Resources</h3>
-	
+	<h3>Resources</h3><br>
+
 	<p>This page lists various resources for HTML and CSS.  The HTML and CSS standards can be found at <a href="http://www.w3.org/standards/">W3C</a>.</p>
-	
+
 	<h4>Tutorials</h4>
 	<ul>
 		<li><a href="http://www.html-5-tutorial.com/">Basic HTML5 Tutorial</a></li>
@@ -34,6 +35,7 @@
 		<li><a href="http://www.w3.org/TR/html5/">HTML5 Specifications</a></li>
 		<li><a href="http://www.w3.org/TR/css3-roadmap/">CSS3 Specifications</a></li>
 	</ul>
+	</div>
 	</div>
 </body>
 </html>
