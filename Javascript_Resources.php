@@ -16,6 +16,9 @@
 	<h4>Tutorials</h4>
 	<ul>
 		<li><a href="https://www.thenewboston.com/videos.php?cat=10">Javascript Tutorial Videos for Beginners</a></li>
+		<li><a href="http://learn-js.org">Interactive Javascript Tutorial</a></li>
+		<li><a href="http://overapi.com/javascript/">Javascript Cheat Sheet</a></li>
+		<li><a href="http://www.w3schools.com/js/default.asp">Javascript Tutorials at W3Schools</a></li>
 	</ul>
 	<h4>Compatability</h4>
 	<ul>
