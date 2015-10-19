@@ -18,7 +18,7 @@
 	</ul>
 	<h4>Compatability</h4>
 	<ul>
-		<li>Placeholding Text</li>
+		<li><a href="http://www.tutorialspoint.com/javascript/javascript_browsers_handling.htm">Check Browser with Javascript</a></li>
 	</ul>
 	<h4>Security</h4>
 	<ul>
@@ -35,9 +35,11 @@
 	<h4>Advanced Frameworks</h4>
 	<ul>
 		<li><a href="https://jquery.com/">JQuery Official Site</a></li>
-		<li><a href="http://www.w3schools.com/jquery/">W3Schools Tutorials for JQuery for Beginners</a></li>
-		<li><a href="http://smashinghub.com/20-excellent-jquery-toolstricks-for-developers.htm">20 Excellent JQuery Tools/Tricks for Developers</a></li>
-		<li><a href="http://overapi.com/jquery/">JQuery Examples</a></li>
+		<ul>
+			<li><a href="http://www.w3schools.com/jquery/">W3Schools Tutorials for JQuery for Beginners</a></li>
+			<li><a href="http://smashinghub.com/20-excellent-jquery-toolstricks-for-developers.htm">20 Excellent JQuery Tools/Tricks for Developers</a></li>
+			<li><a href="http://overapi.com/jquery/">JQuery Examples</a></li>
+		</ul>
 	</ul>
 	<h4>Specifications</h4>
 	<ul>
@@ -45,12 +47,12 @@
 	</ul>
 	<h4>Style</h4>
 	<ul>
-		<li>Placeholding Text</li>
+		<li><a href="http://www.w3.org/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript">Dynamic Styles on W3.org</a></li>
 	</ul>
 	<h4>Debugging</h4>
 	<ul>
-		<li>Placeholding Text</li>
-	</ul>	
+		<li><a href="http://www.w3schools.com/js/js_debugging.asp">Javascript debugging on W3Schools</a></li>
+	</ul>
 	</div>
 </body>
 </html>
