@@ -7,8 +7,10 @@
 <title>HTML5 Video</title>
 </head>
 <body>
+<div class="everything">
 <?php include 'menu.html'; ?>
 <!--#include virtual="menu.html" -->
+<div class="content">
 <p>
 Video can be embedded in the browser using HTML5 using the &lsaquo;video&rsaquo; tag. <br>
 <a href="http://www.w3schools.com/html/html5_video.asp"> A good tutorial for HTML5 Video can be found here.</a>.<br><br>
@@ -24,5 +26,7 @@ Here is an example of the code used below to display the video.<br>
 <source src="Fun-With-Hitlers-Easter-Stash.mp4">
 </video>
 </p>
+</div>
+</div>
 </body>
 </html>

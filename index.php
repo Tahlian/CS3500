@@ -6,9 +6,11 @@
 <title>CS3500</title>
 </head>
 <body>
+<div class="everything">
 <?php include 'menu.html'; ?>
 <!--#include virtual="menu.html" -->
-<h3>This page contains a short tutorial on HTML and CSS</h3>
+<div class="content">
+<h3>This page contains a short tutorial on HTML and CSS</h3><br>
 <p>
 W3 Schools has a bunch of free tutorials for <a href="http://www.w3schools.com/html/">HTML</a> and 
 <a href="http://www.w3schools.com/css/">CSS</a>
@@ -27,6 +29,7 @@ The &lsaquo;img&rsaquo; tag is used to embed images.<br><br>
 <img src="idiot.gif" alt ="This should be a gif of a guy setting his crotch on fire but it seems it broke somehow." style="width: 266px;height: 200px"><br><br>
 <a href="http://www.w3schools.com/html/html_images.asp">Here is a W3Schools tutorial for Images</a>.
 </p>
-
+</div>
+</div>
 </body>
 </html>

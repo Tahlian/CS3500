@@ -6,9 +6,10 @@
 <title>Javascript Resources</title>
 </head>
 <body>
+	<div class="everything">
 	<?php include 'menu.html'; ?>
 	<div class="content">
-	<h3 class="title">Javascript Resources</h3>
+	<h3 class="title">Javascript Resources</h3><br>
 	
 	<p>This page lists various resources for Javascript. The Javascript standards can be found at <a href="http://www.ecma-international.org/ecma-262/6.0/index.html">ECMA-International</a>.</p>
 	
@@ -53,6 +54,7 @@
 	<ul>
 		<li><a href="http://www.w3schools.com/js/js_debugging.asp">Javascript debugging on W3Schools</a></li>
 	</ul>
+	</div>
 	</div>
 </body>
 </html>

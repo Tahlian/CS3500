@@ -7,8 +7,10 @@
 <title>HTML5 Audio</title>
 </head>
 <body>
+<div class="everything">
 <?php include 'menu.html'; ?>
 <!--#include virtual="menu.html" -->
+<div class="content">
 <p>
 Audio can be embedded in the browser using HTML5 using the &lsaquo;audio&rsaquo; tag. <br>
 <a href="http://www.w3schools.com/html/html5_audio.asp"> A good tutorial for HTML5 Audio can be found here.</a>.<br><br>
@@ -24,5 +26,7 @@ Here is an example of the code used below to display the audio.<br>
 <source src=we-are-nowhere.mp3>
 </audio>
 </p>
+</div>
+</div>
 </body>
 </html>
