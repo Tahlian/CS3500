@@ -1,7 +1,0 @@
-<nav class="menu2">
-    <a href="index.php">Home</a>
-    <a href="Resources.php">Resources</a>
-    <a href="video.php">HTML5 Video</a>
-    <a href="audio.php">HTML5 Audio</a>
-    <a class="dummy"> </a>
-</nav>
