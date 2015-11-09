@@ -5,6 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
 	<script language="javascript" type="text/javascript" src="js/jquery.flot.js"></script>
+	<script language="javascript" type="text/javascript" src="js/jquery.flot.crosshair.js"></script>
 	<script language="javascript" type="text/javascript" src="predator_prey_euler.js"></script>
 <!--	<script type="text/javascript">
 
@@ -90,8 +91,9 @@
 	<title>Predator Prey Model</title>
 </head>
 <body>
-	<?php include 'menu.html'; ?>
+	<?php // include 'menu.html'; ?>
 	<div class="everything">
+        	<?php include 'menu.html'; ?>
 		<div class="content">
 			<h3 class="title">Predator Prey Model</h3><br>
 			<p>This page is a Javascript implementation of the Predator Prey model using Jquery and Flot</p>
@@ -100,12 +102,14 @@
 			Alpha (&alpha;): <input type="text" id="alphaInput" value="0.15"><br>
 			Beta (&beta;): <input type="text" id="betaInput" value="0.001"><br>
 			Gamma (&gamma;): <input type="text" id="gammaInput" value="0.25"><br>
-			Delta (&delta;): <input type="text" id="deltaInput" value="0.00015"><br><br>
+			Delta (&delta;): <input type="text" id="deltaInput" value="0.00015"><br>
+                        Time Increment: <input type="text" id="incrementInput" value="0.5"><br>
+                        Total Time: <input type="text" id="timeInput" value="50"><br><br>
 			<input type="button" id="submit" onclick="drawGraph()" value="Draw Graph">	
 		</div>
 
 	<div class="graph">
-					<div id="placeholder" class="demo-placeholder" style="height:1000px; width:1000px"></div>	
+					<div id="placeholder" class="demo-placeholder" style="height:800px; width:1000px"></div>	
 	</div>
 	</div>
 </body>
