@@ -2,6 +2,8 @@
 
 var videoElement = document.querySelector('video');
 var videoSelect = document.getElementById("videoSource");
+var c1 = document.getElementById("myCanvas");
+var ctx1 = c1.getContext("2d");
 
 navigator.getUserMedia = navigator.getUserMedia ||
   navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
@@ -69,8 +71,36 @@ function start(){
   navigator.getUserMedia(constraints, successCallback, errorCallback);
 }
 
+function coloravg () {
+	ctx1.drawImage(videoElement, 0, 0, videoElement.width, videoElement.height);
+	var imgData = ctx1.getImageData(0, 0, videoElement.width, videoElement.height);
+	var aves = getAverage(imgData);
+	alert("red=" + aves[0] + "  green=" + aves[1] + "  blue=" + aves[2]);
+}
+
+function getAverage(imgData){
+	var redTotal = 0;
+	var greenTotal = 0;
+	var blueTotal = 0;
+	var total = 0;
+	for (var i=0;i<imgData.data.length;i+=4)
+	{
+		redTotal += imgData.data[i+0];
+		greenTotal += imgData.data[i+1];
+		blueTotal += imgData.data[i+2];
+		total++;
+	}
+	var Averages = new Array;
+	Averages[0] = redTotal/total;
+	Averages[1] = greenTotal/total;
+	Averages[2] = blueTotal/total;
+	
+	return Averages;
+}
+
 document.getElementById('MediaStreamStartButton').onclick = start;
 videoSelect.onchange = start;
 document.getElementById('MediaStreamStopButton').onclick = function() {if (window.stream) { window.stream.stop(); }};
+videoElement.onclick = coloravg;
 
 
