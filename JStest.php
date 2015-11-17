@@ -6,10 +6,12 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Resources</title>
 	<base target="_blank">
+	<style>#myCanvas{display: none;}</style>
 </head>
 <body>
 <?php include 'menu.html'; ?>
 <video id="video" width="800" height="600" style="max-width:100%;background:#111;border:1px solid #666;" autoplay></video>
+<canvas id="myCanvas" width="800" height="600"></canvas>
 <button id="MediaStreamStartButton">Start</button> <button id="MediaStreamStopButton">Stop</button>
 <select id="videoSource"></select>
 <script src=js/adapter.js></script>

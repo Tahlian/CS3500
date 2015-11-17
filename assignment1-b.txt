@@ -1,0 +1,199 @@
+Group 1	WRONG SITE
+        a)
+        b)
+        c)
+        d)
+        e)
+        f)
+        g)
+
+        Improvements:
+                1)
+                2)
+                3)
+
+Group 2
+        a)5
+        b)1
+        c)4
+        d)2
+        e)5
+        f)4
+        g)5
+
+        Improvements:
+                1) Perhaps find some shorter videos
+                2) Link to the W3C Standards at http://www.w3.org/TR/html5/
+                3) Try adding more links to helpful pages
+
+Group 3
+        a)5
+        b)4
+        c)5
+        d)5
+        e)5
+        f)2
+        g)5
+
+        Improvements:
+                1) Official HTML5 standards are at http://www.w3.org/TR/html5/
+                2) Didn't see any tools. Maybe add a link to a validator at https://validator.w3.org/
+                3) Official CSS standards are at http://www.w3.org/TR/css3-roadmap/
+
+Group 4
+	a) 5
+	b) 3
+	c) 5
+	d) 4
+	e) 5
+	f) 4
+	g) 4
+
+	Improvements:
+		1) Perhaps add links to an IDE to use
+		2) Link to the W3C Standards at http://www.w3.org/TR/html5/
+		3) Link to an html and css validator, like one at https://validator.w3.org/
+
+Group 5
+	a)5
+	b)5
+	c)5
+	d)1
+	e)5
+	f)5
+	g)5
+
+        Improvements:
+                1) Didn't see a style guide
+                2) Link to an html5 validator, like one at https://validator.w3.org/
+                3) A CSS validator is at https://jigsaw.w3.org/css-validator/
+
+Group 6	WEBSITE 404s
+        a)
+        b)
+        c)
+        d)
+        e)
+        f)
+        g)
+
+        Improvements:
+                1)
+                2)
+                3)
+
+Group 7	OUR GROUP
+        a)5
+        b)5
+        c)4
+        d)3
+        e)2
+        f)5
+        g)5
+
+        Improvements:
+                1) Add brief useful comment on each tutorial
+                2) Add places to look to help like stackoverflow
+                3) Find a style guide
+
+Group 8
+        a)5
+        b)2
+        c)5
+        d)5
+        e)4
+        f)2
+        g)5
+
+        Improvements:
+                1) Link to the official W3C Standards at http://www.w3.org/TR/html5/
+                2) Link to tools, like a validator at https://validator.w3.org/
+                3) Add a link to a forum, or to stackoverflow
+
+Group 9	DUPLICATE OF GROUP 4
+        a)
+        b)
+        c)
+        d)
+        e)
+        f)
+        g)
+
+        Improvements:
+                1)
+                2)
+                3)
+
+Group 10
+        a)5
+        b)5
+        c)5
+        d)5
+        e)4
+        f)5
+        g)5
+
+        Improvements:
+                1) Add a link to a forum, or to stackoverflow
+                2) Perhaps link to an IDE
+                3) Maybe link to a css validator at https://jigsaw.w3.org/css-validator
+
+
+
+Part to email
+
+For each site your group should rate each web site on these 7 areas
+a ranking (1-10 unique) for the website an three suggestions for improvement..
+Then email me a plain text file of the following format with 10 evaluations
+each separated by a blank line:
+
+Site_number Ranking rating_a rating_b ... rating_e
+1) Improvement 1
+2) Improvement 2
+3) Improvement 3
+
+Note the first line of each evaluation is 9 space separated integers
+and the next three parts are sentences... Your email should contain
+all 10 evaluations in a single text file, including a self evaluations.
+
+1 WRONG PAGE
+
+2 5 1 4 2 5 4 5
+1) Perhaps find some shorter videos
+2) Link to the W3C Standards at http://www.w3.org/TR/html5/
+3) Try adding more links to helpful pages
+
+3 5 4 5 5 5 2 5
+1) Official HTML5 standards are at http://www.w3.org/TR/html5/
+2) Didn't see any tools. Maybe add a link to a validator at https://validator.w3.org/
+3) Official CSS standards are at http://www.w3.org/TR/css3-roadmap/
+
+4 5 3 5 4 5 4 4
+1) Perhaps add links to an IDE to use
+2) Link to the W3C Standards at http://www.w3.org/TR/html5/
+3) Link to an html and css validator, like one at https://validator.w3.org/
+
+5 5 5 5 1 5 5 5
+1) Didn't see a style guide
+2) Link to an html5 validator, like one at https://validator.w3.org/
+3) A CSS validator is at https://jigsaw.w3.org/css-validator/                                                                                 
+                                                                                                                                              
+6 WEBSITE 404s                                                                                                                                
+                                                                                                                                              
+7 5 5 4 3 2 5 5                                                                                                                               
+1) Add brief useful comment on each tutorial                                                                                                  
+2) Add places to look to help like stackoverflow                                                                                              
+3) Find a style guide                                                                                                                         
+                                                                                                                                              
+8 5 2 5 5 4 2 5                                                                                                                               
+1) Link to the official W3C Standards at http://www.w3.org/TR/html5/                                                                          
+2) Link to tools, like a validator at https://validator.w3.org/                                                                               
+3) Add a link to a forum, or to stackoverflow                                                                                                 
+
+9 DUPLICATE OF GROUP 4
+
+10 5 5 5 5 4 5 5
+1) Add a link to a forum, or to stackoverflow
+2) Perhaps link to an IDE
+3) Maybe link to a css validator at https://jigsaw.w3.org/css-validator
+
