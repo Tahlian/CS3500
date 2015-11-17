@@ -5,6 +5,11 @@
 @import 'animations.css';
 
 
+input {
+	margin-bottom:.7em;
+	margin-right:.5em;
+}
+
 body {
 	margin-top:100px;
 	background: #2b2b2b;
@@ -33,6 +38,11 @@ p{
 	max-width: 800px;
 	text-align:left;
   margin-left:auto;
+	margin-right:auto;
+}
+
+#placeholder {
+	margin-left:auto;
 	margin-right:auto;
 }
 
