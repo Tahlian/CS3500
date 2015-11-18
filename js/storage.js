@@ -61,8 +61,15 @@ function Save()
 	var list = document.getElementById("saves");
 	if (x.value != "")
 	{
+		var repeat = 0;
 		saveModel(x.value);
-		saveNames[saveNames.length] = x.value;
+		for (i = 0; i < saveNames.length; i++)
+		{
+			if (saveNames[i] === x.value) {
+				repeat = 1; }
+		}
+		if (repeat === 0) {
+			saveNames[saveNames.length] = x.value; }
 		saveNames.sort();
 		updateList(saveNames);
 		list.selectedIndex = list.options.namedItem(x.value).index;
