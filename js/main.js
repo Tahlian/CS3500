@@ -76,6 +76,9 @@ function coloravg () {
 	var imgData = ctx1.getImageData(0, 0, videoElement.width, videoElement.height);
 	var aves = getAverage(imgData);
 	alert("red=" + aves[0] + "  green=" + aves[1] + "  blue=" + aves[2]);
+	document.getElementById("red").innerHTML = aves[0];
+	document.getElementById("green").innerHTML = aves[1];
+	document.getElementById("blue").innerHTML = aves[2];
 }
 
 function getAverage(imgData){
